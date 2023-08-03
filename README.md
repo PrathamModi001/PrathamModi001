@@ -6,6 +6,9 @@ const modi = {
     code: ["Javascript", "Python", "Java", "C", "C++", ],
     askMeAbout: ["web dev", "tech", "ai-ml", "anime"],
     technologies: {
+        ai_ml = {
+                ["Numpy", "Pandas", "Matplotlib", "Seaborn", "Scikit-Learn", "Tensorflow", "Keras"]
+            }
         web_dev: {
                 frontend: {
                     ["HTML", "CSS", "Javascript", "REACT", "Bootstrap"]
@@ -17,6 +20,7 @@ const modi = {
                     js: ["Mongoose", "Express", "Node.js"],
                 },
                 databases: ["MongoDB", "MySql"],
+                stack: ["MERN"]
               }
     },
     currentFocus: "Exploring AI/ML and DSA for Placements",
