@@ -5,6 +5,19 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+World!++;AI-ML+Enthusiast,;Self-taught+Back-End+Developer,;Computer+Science+Student,;Anime+%26hearts;Active+Learner,;"></a>
 </p>
 
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+I am an undergraduate Computer science and Engineering student at PDEU, Gandhinagar. I love to learn and build something new, productive, innovative and creative.
+* **I am interested in AI-ML, Web Development, and digital marketing**
+- 🌱 I’m currently learning ...
+  - Neural Network
+  - NLP
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+- Outside tech, 📖 I love to Anime/Manga, 🎵 listen to music, and 🌴 Travel.
+- 📫 Reach out to me at: <a href="prathammodi001@gmail.com">prathammodi001@gmail.com</a>
+
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
