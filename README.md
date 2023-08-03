@@ -12,7 +12,7 @@ const modi = {
             },
             architechture: {
               ["RESTful API" , "GraphQL"]
-            }
+            },
             backEnd: {
                 js: ["Mongoose", "Express", "Node.js"],
             },
