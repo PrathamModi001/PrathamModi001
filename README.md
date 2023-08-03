@@ -5,10 +5,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+World!++;AI-ML+Enthusiast,;Self-taught+Back-End+Developer,;Computer+Science+Student,;Anime+%26hearts;Active+Learner,;"></a>
 </p>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 I am an undergraduate Computer science and Engineering student at PDEU, Gandhinagar. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in AI-ML, Web Development, and digital marketing**
+* **I am interested in AI-ML, Web Development**
 - 🌱 I’m currently learning ...
   - Neural Network
   - NLP
