@@ -7,17 +7,17 @@ const modi = {
     askMeAbout: ["web dev", "tech", "ai-ml", "anime"],
     technologies: {
         web_dev: {
-            frontend: {
-                ["HTML", "CSS", "Javascript", "REACT", "Bootstrap"]
-            },
-            architechture: {
-              ["RESTful API" , "GraphQL"]
-            },
-            backEnd: {
-                js: ["Mongoose", "Express", "Node.js"],
-            },
-            databases: ["MongoDB", "MySql"],
-          }
+                frontend: {
+                    ["HTML", "CSS", "Javascript", "REACT", "Bootstrap"]
+                },
+                architechture: {
+                  ["RESTful API" , "GraphQL"]
+                },
+                backEnd: {
+                    js: ["Mongoose", "Express", "Node.js"],
+                },
+                databases: ["MongoDB", "MySql"],
+              }
     },
     currentFocus: "Exploring AI/ML and DSA for Placements",
     funFact: "There are two ways to write error-free programs; only the third one works"
