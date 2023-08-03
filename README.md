@@ -6,7 +6,7 @@ const modi = {
     code: ["Javascript", "Python", "Java", "C", "C++", ],
     askMeAbout: ["web dev", "tech", "ai-ml", "anime"],
     technologies: {
-        web dev: {
+        web_dev: {
             frontend: {
                 ["HTML", "CSS", "Javascript", "REACT", "Bootstrap"]
             },
