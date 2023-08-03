@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Pratham Modi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+World!++;AI-ML+Enthusiast,;Self-taught+Back-End+Developer,;Computer+Science+Student,;Anime+%26hearts;Active+Learner,;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+World!++;AI-ML+Enthusiast,;Self-taught+Back-End+Developer,;Computer+Science+Student,;Anime+%E2%9D%A4%EF%B8%8F;Active+Learner,;"></a>
 </p>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
