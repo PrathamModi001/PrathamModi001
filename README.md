@@ -5,7 +5,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+World!++;AI-ML+Enthusiast,;Self-taught+Back-End+Developer,;Computer+Science+Student,;Anime+%E2%9D%A4%EF%B8%8F;Active+Learner,;"></a>
 </p>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<p align="center">
+  <img align="right" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+</p>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 I am an undergraduate Computer science and Engineering student at PDEU, Gandhinagar. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in AI-ML, Web Development**
