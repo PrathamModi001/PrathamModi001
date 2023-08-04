@@ -22,7 +22,7 @@
   - NLP
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to Anime/Manga, 🎵 listen to music, and 🌴 Travel.
+- Outside tech, 📖 I love to Anime/Manga, 🎵 listen to <a href="https://open.spotify.com/user/i0tpzx4uozqy5ww6u3w8kw8k4?si=601fdc6152a845ab">music</a>, and 🌴 Travel.
 - 📫 Reach out to me at: <a href="prathammodi001@gmail.com">prathammodi001@gmail.com</a>
 
 
