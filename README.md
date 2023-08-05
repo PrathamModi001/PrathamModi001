@@ -32,7 +32,7 @@
  
  <br>
 
-### 💻 Stack I Work With
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Stack I Work With
 
 <br>
 
@@ -135,15 +135,10 @@
 <a href="https://www.instagram.com/prathammodii/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 </p>
   
 <br>
  
-
-
-
 
 
