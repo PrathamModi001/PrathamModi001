@@ -107,9 +107,10 @@
 </p>
 <br>
 
-# <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
 
+# <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathamModi001&theme=algolia" alt="candida18"  /></p>
+<p align="center">
 
 
 
@@ -134,10 +135,13 @@
 <a href="https://www.instagram.com/prathammodii/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 </p>
   
 <br>
-   
+ 
 
 
 
